@@ -1,2 +1,2 @@
 # Oasis Infobyte Tasks
-my first repository on Github
+Here I have done all tasks which was provided by Oasis Infobyte
